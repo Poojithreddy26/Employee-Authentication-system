@@ -1,0 +1,13 @@
+Flask
+flask
+mysql
+
+mysql-connector==2.2.9
+mysql-connector-python==8.0.25
+mysqlclient==2.0.3
+Flask-Ext==0.1
+WTForms==2.3.3
+Flask-WTF==0.15.1
+email-validator==1.1.3
+
+
